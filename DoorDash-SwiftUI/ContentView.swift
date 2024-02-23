@@ -8,12 +8,18 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    var orders: [Int] = [1,2,3,4,5,6]
+    var items : Int = 10
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            HeaderView()
+            OrderView(orders: orders)
+                .cornerRadius(10)
+            
+            MenuItemView()
+            MenuView()
+            Spacer()
         }
         .padding()
     }
@@ -22,3 +28,5 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+

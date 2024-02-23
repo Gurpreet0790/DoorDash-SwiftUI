@@ -14,6 +14,18 @@
 		92D2CAA72B894DAE0084F0D9 /* DoorDash_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAA62B894DAE0084F0D9 /* DoorDash_SwiftUITests.swift */; };
 		92D2CAB12B894DAE0084F0D9 /* DoorDash_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAB02B894DAE0084F0D9 /* DoorDash_SwiftUIUITests.swift */; };
 		92D2CAB32B894DAE0084F0D9 /* DoorDash_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAB22B894DAE0084F0D9 /* DoorDash_SwiftUIUITestsLaunchTests.swift */; };
+		92D2CACA2B894DDB0084F0D9 /* MenuRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC02B894DDB0084F0D9 /* MenuRowView.swift */; };
+		92D2CACB2B894DDB0084F0D9 /* RatingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC12B894DDB0084F0D9 /* RatingsView.swift */; };
+		92D2CACC2B894DDB0084F0D9 /* MenuItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC22B894DDB0084F0D9 /* MenuItemView.swift */; };
+		92D2CACD2B894DDB0084F0D9 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC32B894DDB0084F0D9 /* HomeView.swift */; };
+		92D2CACE2B894DDB0084F0D9 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC42B894DDB0084F0D9 /* Extension.swift */; };
+		92D2CACF2B894DDB0084F0D9 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC52B894DDB0084F0D9 /* WelcomeView.swift */; };
+		92D2CAD02B894DDB0084F0D9 /* OrderRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC62B894DDB0084F0D9 /* OrderRowView.swift */; };
+		92D2CAD12B894DDB0084F0D9 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC72B894DDB0084F0D9 /* HeaderView.swift */; };
+		92D2CAD22B894DDB0084F0D9 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC82B894DDB0084F0D9 /* MenuView.swift */; };
+		92D2CAD32B894DDB0084F0D9 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D2CAC92B894DDB0084F0D9 /* OrderView.swift */; };
+		92D2CAD72B894E3F0084F0D9 /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92D2CAD52B894E3F0084F0D9 /* PlayfairDisplay-Bold.ttf */; };
+		92D2CAD82B894E3F0084F0D9 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92D2CAD62B894E3F0084F0D9 /* PlayfairDisplay-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +56,19 @@
 		92D2CAAC2B894DAE0084F0D9 /* DoorDash-SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DoorDash-SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		92D2CAB02B894DAE0084F0D9 /* DoorDash_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoorDash_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		92D2CAB22B894DAE0084F0D9 /* DoorDash_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoorDash_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		92D2CAC02B894DDB0084F0D9 /* MenuRowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuRowView.swift; sourceTree = "<group>"; };
+		92D2CAC12B894DDB0084F0D9 /* RatingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingsView.swift; sourceTree = "<group>"; };
+		92D2CAC22B894DDB0084F0D9 /* MenuItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuItemView.swift; sourceTree = "<group>"; };
+		92D2CAC32B894DDB0084F0D9 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		92D2CAC42B894DDB0084F0D9 /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		92D2CAC52B894DDB0084F0D9 /* WelcomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		92D2CAC62B894DDB0084F0D9 /* OrderRowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderRowView.swift; sourceTree = "<group>"; };
+		92D2CAC72B894DDB0084F0D9 /* HeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		92D2CAC82B894DDB0084F0D9 /* MenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		92D2CAC92B894DDB0084F0D9 /* OrderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		92D2CAD52B894E3F0084F0D9 /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; };
+		92D2CAD62B894E3F0084F0D9 /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		92D2CAD92B894EB40084F0D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +119,9 @@
 		92D2CA942B894DAB0084F0D9 /* DoorDash-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				92D2CAD92B894EB40084F0D9 /* Info.plist */,
+				92D2CAD42B894E3F0084F0D9 /* Fonts */,
+				92D2CABF2B894DDB0084F0D9 /* Views */,
 				92D2CA952B894DAB0084F0D9 /* DoorDash_SwiftUIApp.swift */,
 				92D2CA972B894DAB0084F0D9 /* ContentView.swift */,
 				92D2CA992B894DAD0084F0D9 /* Assets.xcassets */,
@@ -125,6 +153,32 @@
 				92D2CAB22B894DAE0084F0D9 /* DoorDash_SwiftUIUITestsLaunchTests.swift */,
 			);
 			path = "DoorDash-SwiftUIUITests";
+			sourceTree = "<group>";
+		};
+		92D2CABF2B894DDB0084F0D9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				92D2CAC02B894DDB0084F0D9 /* MenuRowView.swift */,
+				92D2CAC12B894DDB0084F0D9 /* RatingsView.swift */,
+				92D2CAC22B894DDB0084F0D9 /* MenuItemView.swift */,
+				92D2CAC32B894DDB0084F0D9 /* HomeView.swift */,
+				92D2CAC42B894DDB0084F0D9 /* Extension.swift */,
+				92D2CAC52B894DDB0084F0D9 /* WelcomeView.swift */,
+				92D2CAC62B894DDB0084F0D9 /* OrderRowView.swift */,
+				92D2CAC72B894DDB0084F0D9 /* HeaderView.swift */,
+				92D2CAC82B894DDB0084F0D9 /* MenuView.swift */,
+				92D2CAC92B894DDB0084F0D9 /* OrderView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		92D2CAD42B894E3F0084F0D9 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				92D2CAD52B894E3F0084F0D9 /* PlayfairDisplay-Bold.ttf */,
+				92D2CAD62B894E3F0084F0D9 /* PlayfairDisplay-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,6 +285,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92D2CAD82B894E3F0084F0D9 /* PlayfairDisplay-Regular.ttf in Resources */,
+				92D2CAD72B894E3F0084F0D9 /* PlayfairDisplay-Bold.ttf in Resources */,
 				92D2CA9D2B894DAD0084F0D9 /* Preview Assets.xcassets in Resources */,
 				92D2CA9A2B894DAD0084F0D9 /* Assets.xcassets in Resources */,
 			);
@@ -257,8 +313,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92D2CAD02B894DDB0084F0D9 /* OrderRowView.swift in Sources */,
 				92D2CA982B894DAB0084F0D9 /* ContentView.swift in Sources */,
+				92D2CACA2B894DDB0084F0D9 /* MenuRowView.swift in Sources */,
+				92D2CACE2B894DDB0084F0D9 /* Extension.swift in Sources */,
+				92D2CACF2B894DDB0084F0D9 /* WelcomeView.swift in Sources */,
+				92D2CAD12B894DDB0084F0D9 /* HeaderView.swift in Sources */,
 				92D2CA962B894DAB0084F0D9 /* DoorDash_SwiftUIApp.swift in Sources */,
+				92D2CAD22B894DDB0084F0D9 /* MenuView.swift in Sources */,
+				92D2CACD2B894DDB0084F0D9 /* HomeView.swift in Sources */,
+				92D2CAD32B894DDB0084F0D9 /* OrderView.swift in Sources */,
+				92D2CACB2B894DDB0084F0D9 /* RatingsView.swift in Sources */,
+				92D2CACC2B894DDB0084F0D9 /* MenuItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,6 +491,7 @@
 				DEVELOPMENT_TEAM = 8Q8PK53YFD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "DoorDash-SwiftUI/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +521,7 @@
 				DEVELOPMENT_TEAM = 8Q8PK53YFD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "DoorDash-SwiftUI/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
